@@ -1,4 +1,3 @@
-setwd("C:/Users/RAGA/Desktop/Gaayathri/Course3/Project")
 library("data.table")
 library("dplyr")
 run_analysis <- function(){
